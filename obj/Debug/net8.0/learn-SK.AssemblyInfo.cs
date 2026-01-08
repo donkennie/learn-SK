@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("learn-SK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84316aaaab1a2b14cf2913252778b6087d024256")]
 [assembly: System.Reflection.AssemblyProductAttribute("learn-SK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("learn-SK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
